@@ -1,0 +1,3 @@
+  {childID: "anillo", mtl: INITIAL_MTL},
+  {childID: "medio", mtl: INITIAL_MTL},
+  {childID: "piedra", mtl: INITIAL_MTL},
